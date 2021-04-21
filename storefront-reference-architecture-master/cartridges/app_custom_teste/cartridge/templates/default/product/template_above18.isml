@@ -1,0 +1,12 @@
+<div class="color-swatches">
+    <div class="swatches">
+        <span>
+            <img class="swatch swatch-circle" style="background-image: url(https://i.ibb.co/PtnpmTY/1f51e.png)"
+                src="https://i.ibb.co/PtnpmTY/1f51e.png" alt="" />
+        </span>
+        <iscomment> <p>Proibido para menores de 18</p> </iscomment>
+        <p>${Resource.msg('label.above18','productTile',null)}</p>
+    </div>
+</div>
+
+
